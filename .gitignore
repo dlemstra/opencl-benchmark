@@ -1,0 +1,10 @@
+/Debug
+/Release
+/packages
+/images/*
+/image.h
+.vs
+bin
+obj
+*.db
+*.user
