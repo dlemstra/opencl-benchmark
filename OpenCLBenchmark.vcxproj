@@ -121,9 +121,11 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="clew.h" />
+    <ClInclude Include="kernel\shared.h" />
+    <ClInclude Include="kernel\im6.h" />
+    <ClInclude Include="kernel\im7.h" />
     <ClInclude Include="image.h" />
     <ClInclude Include="imageData.h" />
-    <ClInclude Include="kernel.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

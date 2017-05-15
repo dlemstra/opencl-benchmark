@@ -26,13 +26,19 @@
     <ClInclude Include="clew.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="kernel.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="image.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="imageData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="kernel\shared.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="kernel\im6.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="kernel\im7.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

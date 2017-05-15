@@ -4,8 +4,9 @@
 #include <assert.h>
 #include <time.h>
 #include "clew.h"
-#include "kernel.h"
-#include "main.h"
+
+#include "kernel/im6.h"
+//#include "kernel/im7.h"
 
 double getTime()
 {
